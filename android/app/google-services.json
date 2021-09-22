@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565051900168",
+    "project_id": "gtasks-b4efa",
+    "storage_bucket": "gtasks-b4efa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565051900168:android:bbf59d5117dddfaa50ecbd",
+        "android_client_info": {
+          "package_name": "com.example.gtasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565051900168-b65ri4ekpnjq4npsh6apkqk36ahjvdn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByVCk9laMkoFKIMjsdzseoF4g5DPGdLbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565051900168-b65ri4ekpnjq4npsh6apkqk36ahjvdn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
